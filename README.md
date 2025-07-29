@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Raihana Belkacem
 
-<!--
-**belkacemraihana/belkacemraihana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Theoretical Physics  
+🧠 Enthusiast in Artificial Intelligence & Deep Learning  
+🐍 Python Developer | 📊 Data Science Explorer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+I'm combining my scientific background with AI and data tools to solve complex problems, analyze data, and build intelligent models.
+
+- 🔭 Currently working on building my AI portfolio  
+- 🌱 Learning more about NLP and Computer Vision  
+- 📫 Reach me at: belkacemraihana@gmail.com  
+- 💼 Open for remote collaborations and opportunities
+
+---
+
+## 🧰 Tech Stack
+Python | Pandas | NumPy | Matplotlib  
+Scikit-learn | TensorFlow | Keras  
+Git | Jupyter | GitHub  
